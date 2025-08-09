@@ -6,6 +6,19 @@
 
 One of the result of me applying some concepts for using GPU kernels with python using ```pyopencl```.
 
+
+## Explanation
+
+The Mandelbrot set is a fractal defined as the set of points where the sequence defined by:
+
+$$z_0 = 0$$
+$$z_{n+1} = z_{n}^2 + c$$
+
+does not approach infinity. Here $c$ a number $x + iy$ in the complex plane. The stereotypical image is formed by assessing a grid of coordinates and verifying if they are bounded within an arbitrary number of iterations, usually using this quantity for the color maps.
+
+
+
+
 ## Requirements
 
 A jupyter notebook environment is needed with ```pyopencl```, ```numpy```, ```matplotlib``` and ```Pillow```. Current working and compatible versions are
