@@ -4,7 +4,7 @@
 
 [test_image]: https://github.com/elvismello/pyopencl_mandelbrot/blob/main/test.png "mandelbrot test"
 
-One of the result of me applying some concepts for using GPU kernels with python using ```pyopencl```.
+One of the results of me applying some concepts for using GPU kernels with python using ```pyopencl```.
 
 
 ## Explanation
